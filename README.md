@@ -11,7 +11,7 @@ Waste eraser helps people to **locate** nearby dustbins along with adding new du
 
 Similarly, new dustbin locations can be added to the map. Apart from this, for people who add new dustbin locations, we plant trees in exchange for their good work. People can choose the locality where they want to plant trees. Out of all reasons for the destruction of our planet, heavy waste generation should not be a part.
 
-### Check out our [Video Demo](https://www.youtube.com/)!
+### Check out our [Video Demo](https://youtu.be/x3_l0sQy0T0)!
 
 
 ## 💡 Inspiration
