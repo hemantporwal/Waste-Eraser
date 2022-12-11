@@ -1,0 +1,62 @@
+.map-body{
+    overflow: hidden;
+}
+
+/* div .landing{
+    -ms-overflow-style: none; 
+    scrollbar-width: none;
+    overflow-y: none; 
+}
+  
+  div .landing::-webkit-scrollbar {
+    display: none; 
+  }  */
+
+  .popup-form {
+    background-color: #040430;
+    padding: 0;
+    cursor:default;
+    font-size:smaller;
+    z-index: 100;
+    border-radius: 5px;
+  }
+  .popup-form .container{
+    padding:0;
+  }
+  
+  .popup-form .container .popup-form-box{
+    margin-top: 10px;
+    margin-left:10px;
+  }
+  
+  .popup-form span{
+    color:#83e072
+  }
+  
+  .mapbox-gl-popup-content{
+    border-radius: 5px;
+    border:1px solid black;
+    padding: 0;
+    box-shadow: 23px 18px 16px rgb(0 0 0 / 10%);
+  -webkit-box-shadow: 23px 18px 16px rgb(0 0 0 / 10%);
+  }
+
+  .modal .custom-modal-box .modal-content{
+    background-color:#040430 ;
+    width:620px;
+  }
+  
+  .modal .custom-modal-box .modal-content .modal-header{
+    border-bottom: 1px solid #040430;
+  }
+  
+  .modal .custom-modal-box .modal-content .modal-header .btn-close{
+    background: url('./assets/close.svg') center/1em auto no-repeat;
+    color:white;
+    opacity:1;
+  }
+  
+  .modal .custom-modal-box .modal-content .modal-footer{
+    border-top: 1px solid #83e072;
+  }
+  
